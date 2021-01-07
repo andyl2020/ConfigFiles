@@ -1,0 +1,1 @@
+%APPDATA%\Roaming\audacity
